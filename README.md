@@ -5,7 +5,8 @@
 ### <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture> Обо мне:
 
 - 👨🏻‍💻 Свой путь в программировании <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> я начал с обучения 2022-2023 гг. в школе👨‍🎓 Яндекс.Практикума, по специальности ВЕБ-разработчик.
-- 
+- 🌱 Мне интересно узнавать новое, углубляться в то, что меня увлекает, нравится мыслить логически и переводить свою мысль в код, чем сложнее задача, тем слаще победа ✌!
+- 🏋 Стабильно занимаюсь спортом, а в свободное время катаюсь на снойборде 🏂
 - 📫 Как связаться со мной [![Telegram Badge](https://img.shields.io/badge/-ArtemAV13-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ArtemAV13)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
