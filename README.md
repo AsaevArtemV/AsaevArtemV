@@ -1,9 +1,13 @@
+# <p align="center"><img width="80%" alt="Привет, моё имя Артём и это мой профиль!" src="./assets/Hi.png"></p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# <p align="center"><img width="80%" alt="Привет, моё имя Артём и это мой профиль!" src="./assets/Hi.png"/></p>
+### <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"> Обо мне:
 
-### :man_technologist: Обо мне:
-В следующей серии.
+- 👨🏻‍💻 Свой путь в программировании <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> я начал с обучения 2022-2023 гг. в школе👨‍🎓 Яндекс.Практикума, по специальности ВЕБ-разработчик.
+- 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 💻 Технологии:
 <div>
@@ -24,6 +28,8 @@
     <img src="https://camo.githubusercontent.com/0d05c68cacac5785826b31bdc804adbd19854a6387210318caac1427dfc7e8d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5765627061636b2d3844443646393f7374796c653d666f722d7468652d6261646765266c6f676f3d5765627061636b266c6f676f436f6c6f723d7768697465" title="webpack" alt="webpack"/>&nbsp;
       <img src="https://camo.githubusercontent.com/879423585ed087f3c973857c43ba7e7d84f52c993d2c937055726339fbf921d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d506f73746d616e266c6f676f436f6c6f723d7768697465" title="postman" alt="postman"/>&nbsp;
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ⚙️ GitHub статистика:
 
