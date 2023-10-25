@@ -6,7 +6,7 @@
 
 - 👨🏻‍💻 Свой путь в программировании <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> я начал с обучения 2022-2023 гг. в школе👨‍🎓 Яндекс.Практикума, по специальности ВЕБ-разработчик.
 - 
-- 📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ArtemAV13-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ArtemAV13)
+- 📫 Как связаться со мной [![Telegram Badge](https://img.shields.io/badge/-ArtemAV13-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ArtemAV13)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
