@@ -13,12 +13,12 @@
 
 ### 💻 Технологии:
 <div>
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c" title="javascript" alt="javascript">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe" title="React" alt="React">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629" title="HTML5" alt="HTML5">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1" title="CSS3" alt="CSS3">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60" title="node.js" alt="node.js">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github" title="github" alt="github">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c" title="javascript" alt="javascript">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe" title="React" alt="React">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629" title="HTML5" alt="HTML5">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1" title="CSS3" alt="CSS3">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60" title="node.js" alt="node.js">
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github" title="github" alt="github">
   <!-- <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongoDB&svgfill=4ae21d" title="mongoDB" alt="mongoDB"> -->
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=nginx&svgfill=51ae19" title="nginx" alt="nginx">
 </div>
@@ -32,8 +32,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### ⚙️ GitHub статистика:
+### 💻 Codewars:
+![codewars](https://www.codewars.com/users/ArtemAV131086/badges/large)
 
+### ⚙️ GitHub статистика:
 <table>
   <tr>
     <td>
@@ -46,17 +48,5 @@
 </table>
 
 <p align="center">
- <img width="100%" src="assets/github-snake.svg" alt="snake"/>
+  <img width="100%" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
